@@ -1,6 +1,6 @@
 ### Java Nested Fluent Builder - Car Example
 
-Source material used to help create this code: http://theflyingkeyboard.net/java/java-nested-fluent-builder/
+Note: Source material used to help create this code: http://theflyingkeyboard.net/java/java-nested-fluent-builder/
 
 The purpose of the program is to test out some nested fluent builder code. The program allows us to build a simple car. 
 
