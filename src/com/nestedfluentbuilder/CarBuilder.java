@@ -12,6 +12,7 @@ public class CarBuilder
     // Create our car to start with
     public static CarBuilder create()
     {
+        // Build the default car - we can change any of these values using the methods below when we create the car in code
         Car newCar = new Car();
         newCar.setBrand("Audi");
         newCar.setModel("A6");

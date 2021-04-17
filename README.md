@@ -2,10 +2,12 @@
 
 Note: Source material used to help create this code: http://theflyingkeyboard.net/java/java-nested-fluent-builder/
 
-The purpose of the program is to test out some nested fluent builder code. The program allows us to build a simple car. 
+The purpose of the program is to test out some nested fluent builder code, the source material for which is linked to above. 
+
+The program allows us to build a simple car. 
 
 In the implementation as it stands, all attributes have a default value and are only changed
-when we specify them explicitly.
+when we specify something different explicitly when we create the car in code.
 
 ##### Running the code
 
